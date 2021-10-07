@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+#textIn {
+    width: 200px;
+    height: 40px;
+    border: 1px solid gray;
+}
+
+#text {
+    width: 400px;
+    height: 500px;
+}
